@@ -1,0 +1,5 @@
+- [x] Fix backend/restaurant_backend/api/views.py: change 'food=food' to 'food_item=food' in add_cart function
+- [x] Fix backend/restaurant_backend/api/views.py: change 'food_id=food_id' to 'food_item_id=food_id' in update_cart function
+- [x] Fix frontend/src/pages/ItemsPage.js: change src to use food.image instead of food.image_url
+- [x] Replace content of frontend/src/pages/CartPage.js with proper cart display code
+- [ ] Test the application to ensure images and data display correctly
